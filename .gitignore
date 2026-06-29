@@ -1,0 +1,12 @@
+*.pt
+*.ts
+*.llc
+ref.jpg
+matching_frame.jpg
+matching_large_truck_frame.jpg
+Road-traffic-video_full.mp4
+video_footage.mp4
+yoloe_detected_video.mp4
+sample_video.mp4
+.ipynb_checkpoints/
+__pycache__/
